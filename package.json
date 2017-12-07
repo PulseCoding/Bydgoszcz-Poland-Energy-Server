@@ -1,0 +1,23 @@
+{
+  "name": "bydgoszcz-poland-energy-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "forARK.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PulseCoding/Bydgoszcz-Poland-Energy-Server.git"
+  },
+  "author": "Héctor Luis Buenrostro Rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PulseCoding/Bydgoszcz-Poland-Energy-Server/issues"
+  },
+  "homepage": "https://github.com/PulseCoding/Bydgoszcz-Poland-Energy-Server#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pubnub": "^4.19.0"
+  }
+}
